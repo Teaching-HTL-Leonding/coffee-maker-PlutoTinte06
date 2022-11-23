@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Coffee Machine\bin\Debug\net7.0\Übung Coffee Machine.exe
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Coffee Machine\bin\Debug\net7.0\Übung Coffee Machine.deps.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Coffee Machine\bin\Debug\net7.0\Übung Coffee Machine.runtimeconfig.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Coffee Machine\bin\Debug\net7.0\Übung Coffee Machine.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Coffee Machine\bin\Debug\net7.0\Übung Coffee Machine.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Coffee Machine\obj\Debug\net7.0\Übung Coffee Machine.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Coffee Machine\obj\Debug\net7.0\Übung Coffee Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Coffee Machine\obj\Debug\net7.0\Übung Coffee Machine.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Coffee Machine\obj\Debug\net7.0\Übung Coffee Machine.AssemblyInfo.cs
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Coffee Machine\obj\Debug\net7.0\Übung Coffee Machine.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Coffee Machine\obj\Debug\net7.0\Übung Coffee Machine.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Coffee Machine\obj\Debug\net7.0\refint\Übung Coffee Machine.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Coffee Machine\obj\Debug\net7.0\Übung Coffee Machine.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Coffee Machine\obj\Debug\net7.0\Übung Coffee Machine.genruntimeconfig.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Coffee Machine\obj\Debug\net7.0\ref\Übung Coffee Machine.dll
